@@ -24,3 +24,6 @@ touch daily/2025-07-03.md
 touch templates/learning-note-template.md
 
 echo "📁 PKM structure created successfully!"
+
+curl https://raw.githubusercontent.com/PrasadThatipudi/daily-learnings/refs/heads/main/new-daily-notes.sh > new-daily-notes.sh
+curl https://raw.githubusercontent.com/PrasadThatipudi/daily-learnings/refs/heads/main/new-learning-template.sh > new-learning-template.sh
